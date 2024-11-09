@@ -1,0 +1,26 @@
+# Ignorar diretórios e arquivos do PyCharm
+.idea/
+*.iml
+
+# Ignorar diretório de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar logs e outros arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos de compilação
+*.egg-info/
+*.egg
+*.whl
+
+# Ignorar arquivos de banco de dados local
+*.db
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
